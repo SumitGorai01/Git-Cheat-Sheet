@@ -48,12 +48,12 @@ This cheat sheet contains common Git commands to help you manage repositories, t
 
 - **Set Email (First Time Configuration)**
   ```bash
-  $ git config --global user.email "goraisumit01@gmail.com"
+  $ git config --global user.email "youremail"
   ```
 
 - **Set Username**
   ```bash
-  $ git config --global user.name "Sumit"
+  $ git config --global user.name "name"
   ```
 
 ## Committing Changes
